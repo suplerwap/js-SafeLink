@@ -1,0 +1,2 @@
+# js-SafeLink
+Dilarang  ngaceng
